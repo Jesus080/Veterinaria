@@ -1,0 +1,22 @@
+body {
+    background-image: url(fondoVeterinaria.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+#contenedordegradado {
+    background-color: transparent;
+    backdrop-filter: blur(15px);
+}
+#datosMascota{
+    background-color: transparent;
+    backdrop-filter: blur(15px);
+    /*width: 550px;
+    height: 400px;*/
+
+}
+#listaMascotas{
+    background-color: transparent;
+    backdrop-filter: blur(15px);
+    
+}
